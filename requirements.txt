@@ -1,0 +1,2 @@
+pip install langchain langchain-community langchain-core langsmith langchain-text-splitters sentence-transformers pypdf faiss-cpu llama-cpp-python streamlit numpy tqdm
+pip install langchain_huggingface langchain-classic
