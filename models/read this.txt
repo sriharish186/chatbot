@@ -1,0 +1,3 @@
+The large language model file is too big (around 4 Gb..) so I've not put it this folder.
+Please go to the following link and download it :p
+https://huggingface.co/RichardErkhov/BioMistral-7B-gguf/blob/main/BioMistral-7B.Q4_K_M.gguf
