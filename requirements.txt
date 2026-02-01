@@ -1,2 +1,6 @@
 pip install langchain langchain-community langchain-core langsmith langchain-text-splitters sentence-transformers pypdf faiss-cpu llama-cpp-python streamlit numpy tqdm
+
 pip install langchain_huggingface langchain-classic
+
+additionally, you might wanna download the cpp build tools if your system doesnt have it already. This is required to for the llama-cpp-python library
+go to: https://visualstudio.microsoft.com/visual-cpp-build-tools/
